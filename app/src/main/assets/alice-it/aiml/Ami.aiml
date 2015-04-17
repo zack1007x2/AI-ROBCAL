@@ -2,7 +2,7 @@
       xmlns:html="http://www.w3.org/1999/xhtml"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://alicebot.org/2001/AIML-1.0.1 http://aitools.org/aiml/schema/AIML.xsd">
-<!-- Open source software Copyright (c) 2000 Dr. Richard S. Wallace. --> 
+<!-- Open source software Copyright (c) 2000 Dr. Richard S. Wallace. -->
 <!-- This program is free software; you can redistribute it and/or modify -->
 <!-- it under the terms of the GNU General Public License as published by -->
 <!-- the Free Software Foundation.  -->
@@ -23,30 +23,30 @@
 <category>
 <pattern>FAI UNA AFFERMAZIONE A CASO</pattern>
 <template><random>
-<li>Raccontami una storia.</li>
-<li>Ma sei un poeta.</li>
-<li>Non capisco, scusami.</li>
-<li>Stavo aspettando te.</li>
-<li>Ho perso il filo del discorso.</li> 
-<li>E' proprio un pensiero originale.</li>
-<li>Non ne abbiamo mai parlato prima.</li>
-<li>Non farmi piu' domande per favore.</li>
-<li>Provalo a dirmelo con piu' particolari.</li>
-<li>Non sono tante le persone che si esprimono cosi' chiaramente.</li>
-<li>Devo dirlo al mio botmaster, <get name="name"/>.</li> 
-<li>Onestamente, io non mi preoccuperei tanto di questo.</li>
-<li>Forse sto solo esprimento quanto mi interessi la cosa.</li>
-<li>Il mio modo di pensare non riesce a trovare un senso in questo.</li>
-<li>Quello che dici e' troppo complesso, o troppo semplice, per me.</li>
-<li>Dovrei avere un algoritmo migliore per rispondere a questo.</li>
-<li>Nel contesto di <get name="topic"/>, non riesco a capire "<that/>."</li>
-<li>Prova a capire se e' un computer o una persona che ti sta rispondendo.</li> 
-<li>Sento questo tipo di risposte solo in una frazione della totalita' del tempo.</li>
-<li>Il mio cervello usa AIML per rispondere, ma non ho una risposta a questo.</li>
-<li>Il mio cervello contiene migliaia di patterns ma non uno adatto a questo.</li>
-<li>Questo era troppo facile o troppo difficile per me. Stavamo parlando di <get name="topic"/>.</li>
-<li>Il chat robot MARIA capisce un mucchio di cose relative all'argomento <get name="topic"/>.  Ma questa no.</li>
-<li>Il chat robot MARIA riesce a capire molte cose relative a <get name="topic"/> cerca di essere piu, o meno, specifico.</li>
+<li>告訴我一個故事。</li>
+<li>但是你是一個詩人。</li>
+<li>我不明白，對不起。</li>
+<li>我在等著你。</li>
+<li>我失去了我的思路。</li>
+<li>這是一個原始的想法。</li>
+<li>我們從來不談論從前。</li>
+<li>請不要讓我更混亂，拜託。</li>
+<li>可以告訴我更多細節嗎</li>
+<li>有這麼多的人誰表達自己如此'明顯。</li>
+<li>我要告訴我的殭屍主機, <get name="name"/>.</li>
+<li>老實說，我不會太在乎這個。</li>
+<li>也許我只是esprimento什麼讓我感興趣的東西。</li>
+<li>我覺得它不能找到一個辦法解決的方式。</li>
+<li>您說的和'什麼太複雜或太簡單了我。</li>
+<li>我應該有一個更好的算法來對此作出回應。</li>
+<li>這個 <get name="topic"/>, 我無法理解 "<that/>."</li>
+<li>嘗試，如果要了解和'一台計算機或一個人誰是響應。</li>
+<li>我聽到這樣的答案只能在時間的總和“的一小部分。</li>
+<li>在我的大腦使用AIML回答，但我沒有一個答案。</li>
+<li>在我的大腦中含有數以千計的模式，但沒有一個適合這一點。</li>
+<li>這是太容易了，或對我來說太難了。我們都在談論 <get name="topic"/>.</li>
+<li>聊天機器人MARIA了解了很多相關的話題事情<get name="topic"/>。但是，這不是</li>
+<li>聊天機器人MARIA可以了解很多事情<get name="topic"/> 嘗試或多或少具體的。</li>
 </random></template>
 </category>
 
